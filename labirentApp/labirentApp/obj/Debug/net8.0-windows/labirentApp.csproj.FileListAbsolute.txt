@@ -1,0 +1,16 @@
+C:\Users\aycan\Desktop\c#\labirentApp\labirentApp\bin\Debug\net8.0-windows\labirentApp.exe
+C:\Users\aycan\Desktop\c#\labirentApp\labirentApp\bin\Debug\net8.0-windows\labirentApp.deps.json
+C:\Users\aycan\Desktop\c#\labirentApp\labirentApp\bin\Debug\net8.0-windows\labirentApp.runtimeconfig.json
+C:\Users\aycan\Desktop\c#\labirentApp\labirentApp\bin\Debug\net8.0-windows\labirentApp.dll
+C:\Users\aycan\Desktop\c#\labirentApp\labirentApp\bin\Debug\net8.0-windows\labirentApp.pdb
+C:\Users\aycan\Desktop\c#\labirentApp\labirentApp\obj\Debug\net8.0-windows\labirentApp.Form1.resources
+C:\Users\aycan\Desktop\c#\labirentApp\labirentApp\obj\Debug\net8.0-windows\labirentApp.csproj.GenerateResource.cache
+C:\Users\aycan\Desktop\c#\labirentApp\labirentApp\obj\Debug\net8.0-windows\labirentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aycan\Desktop\c#\labirentApp\labirentApp\obj\Debug\net8.0-windows\labirentApp.AssemblyInfoInputs.cache
+C:\Users\aycan\Desktop\c#\labirentApp\labirentApp\obj\Debug\net8.0-windows\labirentApp.AssemblyInfo.cs
+C:\Users\aycan\Desktop\c#\labirentApp\labirentApp\obj\Debug\net8.0-windows\labirentApp.csproj.CoreCompileInputs.cache
+C:\Users\aycan\Desktop\c#\labirentApp\labirentApp\obj\Debug\net8.0-windows\labirentApp.dll
+C:\Users\aycan\Desktop\c#\labirentApp\labirentApp\obj\Debug\net8.0-windows\refint\labirentApp.dll
+C:\Users\aycan\Desktop\c#\labirentApp\labirentApp\obj\Debug\net8.0-windows\labirentApp.pdb
+C:\Users\aycan\Desktop\c#\labirentApp\labirentApp\obj\Debug\net8.0-windows\labirentApp.genruntimeconfig.cache
+C:\Users\aycan\Desktop\c#\labirentApp\labirentApp\obj\Debug\net8.0-windows\ref\labirentApp.dll
