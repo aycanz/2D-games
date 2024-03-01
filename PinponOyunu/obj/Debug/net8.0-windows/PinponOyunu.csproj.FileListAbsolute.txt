@@ -1,0 +1,17 @@
+C:\Users\aycan\Desktop\c#\PinponOyunu\PinponOyunu\bin\Debug\net8.0-windows\PinponOyunu.exe
+C:\Users\aycan\Desktop\c#\PinponOyunu\PinponOyunu\bin\Debug\net8.0-windows\PinponOyunu.deps.json
+C:\Users\aycan\Desktop\c#\PinponOyunu\PinponOyunu\bin\Debug\net8.0-windows\PinponOyunu.runtimeconfig.json
+C:\Users\aycan\Desktop\c#\PinponOyunu\PinponOyunu\bin\Debug\net8.0-windows\PinponOyunu.dll
+C:\Users\aycan\Desktop\c#\PinponOyunu\PinponOyunu\bin\Debug\net8.0-windows\PinponOyunu.pdb
+C:\Users\aycan\Desktop\c#\PinponOyunu\PinponOyunu\obj\Debug\net8.0-windows\PinponOyunu.Form1.resources
+C:\Users\aycan\Desktop\c#\PinponOyunu\PinponOyunu\obj\Debug\net8.0-windows\PinponOyunu.Properties.Resources.resources
+C:\Users\aycan\Desktop\c#\PinponOyunu\PinponOyunu\obj\Debug\net8.0-windows\PinponOyunu.csproj.GenerateResource.cache
+C:\Users\aycan\Desktop\c#\PinponOyunu\PinponOyunu\obj\Debug\net8.0-windows\PinponOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aycan\Desktop\c#\PinponOyunu\PinponOyunu\obj\Debug\net8.0-windows\PinponOyunu.AssemblyInfoInputs.cache
+C:\Users\aycan\Desktop\c#\PinponOyunu\PinponOyunu\obj\Debug\net8.0-windows\PinponOyunu.AssemblyInfo.cs
+C:\Users\aycan\Desktop\c#\PinponOyunu\PinponOyunu\obj\Debug\net8.0-windows\PinponOyunu.csproj.CoreCompileInputs.cache
+C:\Users\aycan\Desktop\c#\PinponOyunu\PinponOyunu\obj\Debug\net8.0-windows\PinponOyunu.dll
+C:\Users\aycan\Desktop\c#\PinponOyunu\PinponOyunu\obj\Debug\net8.0-windows\refint\PinponOyunu.dll
+C:\Users\aycan\Desktop\c#\PinponOyunu\PinponOyunu\obj\Debug\net8.0-windows\PinponOyunu.pdb
+C:\Users\aycan\Desktop\c#\PinponOyunu\PinponOyunu\obj\Debug\net8.0-windows\PinponOyunu.genruntimeconfig.cache
+C:\Users\aycan\Desktop\c#\PinponOyunu\PinponOyunu\obj\Debug\net8.0-windows\ref\PinponOyunu.dll
